@@ -1,6 +1,6 @@
 # SimplePY
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+**FREE FOR ALL**
 
 SimplePY is a collection of Python scripts and utilities for file manipulation tailored for AI and ML projects. This repository aims to simplify the handling of datasets, model outputs, and other files commonly encountered in AI and machine learning workflows.
 
