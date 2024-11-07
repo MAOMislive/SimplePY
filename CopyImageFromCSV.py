@@ -3,9 +3,9 @@ import shutil
 import csv
 
 # Define the paths
-csv_file = r'C:\Users\User\Desktop\Team Brikkho\dataset_1\Tree-Dataset-1\Final_Dataset.v1i.tensorflow\train\labelme pith annotation\output.csv'  # Replace with the path to your CSV file
-source_image_dir = r'C:\Users\User\Desktop\Team Brikkho\dataset_1\Tree-Dataset-1\Final_Dataset.v1i.tensorflow\train' # Replace with the path to the directory containing the images'
-destination_dir = r'C:\Users\User\Desktop\Team Brikkho\dataset_1\Tree-Dataset-1\Final_Dataset.v1i.tensorflow\train\labelme pith annotation\train'  # Replace with the path to the destination directory
+csv_file = r'C:\Users\csv_file.csv'  # Replace with the path to your CSV file
+source_image_dir = r'C:\Users\src_folder' # Replace with the path to the directory containing the images'
+destination_dir = r'C:\Users\des_folder'  # Replace with the path to the destination directory
 
 # Create the destination directory if it does not exist
 os.makedirs(destination_dir, exist_ok=True)
