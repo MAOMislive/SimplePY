@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+imgaug==0.4.0
+numpy==1.23.0
+pandas==1.5.0
+matplotlib==3.5.0
